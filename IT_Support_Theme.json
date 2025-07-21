@@ -1,0 +1,16 @@
+{
+    "name": "IT Support Dashboard Theme",
+    "dataColors": [
+        "#2E86AB",
+        "#F6C85F",
+        "#6B5B95",
+        "#FF6F61",
+        "#88B04B",
+        "#FFA07A",
+        "#009B77",
+        "#DD4124"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#2E86AB"
+}
