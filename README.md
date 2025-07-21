@@ -108,7 +108,7 @@ The dataset includes:
 
 ### 🌍 Data Modelling: Screenshot of star schema
 
-![Tags](./Dashboard_Screenshots/tag_location.png)
+![Star Schema](./Data_Modelling_Screenshot.png)
 
 ---
 
