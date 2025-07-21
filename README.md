@@ -6,6 +6,8 @@ Welcome to my submission for the **FP28 Data Storytelling Challenge** titled:
 
 In this challenge, I took on the role of an **IT Support Analyst**, analyzing over **1,000+ support tickets**—replicating a real-world service desk system such as **Jira Service Management**—to uncover operational inefficiencies, highlight trends, and offer process improvement insights using **Power BI**.
 
+## [Live Project Link](https://app.powerbi.com/view?r=eyJrIjoiYzMzNmE3ZTAtNWNlMi00MjM5LWE4MWUtMjllMmY1ZDZkNTA2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)  
+
 ---
 
 ## 📊 Project Objectives
