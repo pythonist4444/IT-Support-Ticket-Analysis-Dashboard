@@ -99,11 +99,11 @@ The dataset includes:
 
 ### 📄 Page 1: Overview & Performance
 
-![Overview](./Dashboard_Screenshots_overview.png)
+![Overview](./Dashboard_Screenshots:overview.png)
 
 ### 🌍 Page 2: Tag & Location Analysis
 
-![Tags](./Dashboard_Screenshot_tag.png)
+![Tags](./Dashboard_Screenshots:tag_location.png)
 
 
 ### 🌍 Data Modelling: Screenshot of star schema
