@@ -87,8 +87,10 @@ The dataset includes:
 | File | Description |
 |------|-------------|
 | `IT_Support_Ticket_Analysis.pbix` | Power BI Desktop file (report) |
+| `IT_Support_Ticket_Analysis.pdf` | Report pdf |
 | `IT_Support_Ticket_Theme.json` | Custom theme used in the report |
 | `Dashboard_Screenshots/` | PNG visuals of key pages |
+| `Data Modelling Screenshots/` | PNG visuals of the star schema |
 | `Challenge_28_IT_Support_Ticket_Desk.xlsx` | Raw dataset |
 
 ---
@@ -103,15 +105,20 @@ The dataset includes:
 
 ![Tags](./Dashboard_Screenshots/tag_location.png)
 
+
+### 🌍 Data Modelling: Screenshot of star schema
+
+![Tags](./Dashboard_Screenshots/tag_location.png)
+
 ---
 
 ## 👨‍💻 Author
 
-**Fakorede Olamide**  
+**Olamide Fakorede**  
 Data Analyst | Python & Power BI  
 [🔗 LinkedIn](https://www.linkedin.com/in/abdulafeezfakorede)  
 [🔗 GitHub](https://www.github.com/pythonist4444)
 
 ---
 
-## 🏁 Challenge by [FP Analytics](https://www.fp-analytics.com/)  
+## 🏁 Challenge by [FP20 Analytics](https://fp20analytics.com/live-challenge/)  
